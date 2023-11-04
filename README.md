@@ -7,11 +7,11 @@ An implementation of image reconstruction methods from [Deep Image Prior (Ulyano
 ## Requirements  
 Python3 with PyTorch, torchvision and NumPy. CUDA and cuDNN are optional (settable within the script in a self-explanatory way) but strongly recommended.  
 
-##Dataset source  
+## Dataset source  
 Multi-Modality Ovarian Tumor Ultrasound (MMOTU) image dataset consists of two sub-sets with two modalities, which are OTU_2d and OTU_CEUS respectively including 1469 2d ultrasound images and 170 CEUS images.  
 MMOTU ：![MMOTU](https://github.com/cv516Buaa/MMOTU_DS2Net)
 
-##To use
+## To use
 1.Prepare marker mask by using tool such as ImgageJ  
 Ovarian Data with Marker：  
 ![885](https://github.com/Kinetics-JOJO/Medical_marker_Removemet/assets/52592905/fb0bf032-6484-4d14-8509-fd82c28f7389)  
