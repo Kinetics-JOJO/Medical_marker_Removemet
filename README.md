@@ -1,5 +1,5 @@
 # Medical_marker_Removemet  
-A Medical_marker_Removemet based on Deep image prior  
+A Medical_marker_Removemet tool based on Deep image prior  
 
 ## Deep image prior  
 An implementation of image reconstruction methods from [Deep Image Prior (Ulyanov et al., 2017)](https://arxiv.org/abs/1711.10925) in PyTorch.  
