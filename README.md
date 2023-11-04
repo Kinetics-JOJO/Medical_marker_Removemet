@@ -9,7 +9,7 @@ Python3 with PyTorch, torchvision and NumPy. CUDA and cuDNN are optional (settab
 
 ##Dataset source  
 Multi-Modality Ovarian Tumor Ultrasound (MMOTU) image dataset consists of two sub-sets with two modalities, which are OTU_2d and OTU_CEUS respectively including 1469 2d ultrasound images and 170 CEUS images.  
-MMOTU ：![Image text](https://github.com/cv516Buaa/MMOTU_DS2Net)
+MMOTU ：![MMOTU](https://github.com/cv516Buaa/MMOTU_DS2Net)
 
 ##To use
 1.Prepare marker mask by using tool such as ImgageJ  
